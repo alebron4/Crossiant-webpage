@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(
+    77.1deg,
+    rgb(245, 220, 168) 11.5%,
+    rgb(22, 220, 236) 100.2%
+  );
+  font-family: "Courier New", Courier, monospace;
+}
+h1 {
+  text-align: center;
+}
+p {
+  margin: 15px 70px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.navigation-links{
+    text-align: center;
+    margin: 45px 10px ;
+    font-weight: 600;
+}
